@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Infinitely curious about the world. A curious kid.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+In my previous avater, I did electrical engineering@NITW. Currently, backendev@Amex. Honestly, I cannot differentiate between math, physics and computer science anymore.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[uanshuman@student.nitw.ac.in](mailto:email@domain.com)
